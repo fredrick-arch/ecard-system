@@ -1,13 +1,4 @@
 {
-
   "$schema": "https://schema.railpack.com",
   "phpExtensions": ["gd"]
 }
-
-  "php": {
-    "extensions": [
-      "gd"
-    ]
-  }
-}
-
